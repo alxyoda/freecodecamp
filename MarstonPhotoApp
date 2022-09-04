@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>MarstonPhotoApp</title>
+</head>
+<body>
+  <h1>MarstonPhotoApp</h1>
+  <main>
+    <section>
+      <h2>Marston Photos</h2>
+      <p>Click here to see more</p> <a href="https://www.instagram.com/marstonthedog/" target="_blank">Marston photos</a>
+      <img src="https://www.instagram.com/p/ChQQEw4s0Aj/?utm_source=ig_web_copy_link" alt="Black dog on a beach">
+    </section>
+    <section>
+      <h2>Marston's lists</h2>
+      <h3>Things Marston loves</h3>
+        <ul>
+          <li>Belly rubs on the sofa</li>
+          <li>Cheese</li>
+          <li>Running on the beach</li>
+        </ul>
+      <h3>Top 3 things Marston hates</h3>
+        <ol>
+          <li>Cats</li>
+          <li>Thunderstorms</li>
+          <li>The cone of shame</li>
+        </ol>
+    </section>
+  </main>
+  <footer>
+  <a href="https://twitter.com/alxyoda" target="_blank">My Twitter</a>, <a href="https://github.com/alxyoda/alxyoda" target="_blank">Github</a>
+  and <a href="https://www.linkedin.com/in/alex-healey-3120811a8/" target="_blank">Linkedin</a> <a href="https://www.instagram.com/marstonthedog/">Marston's Instagram</a>
+  </footer>
+</body>
